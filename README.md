@@ -20,3 +20,9 @@ This project will analyze nuclear energy's role in global electricity generation
 3. Comparison of safety metrics across energy sources.
 4. Predictive modeling for uranium prices or electricity generation.
 5. Interactive visualizations for better storytelling.
+
+
+## Credits & Future Work
+Please refer to the dataset description found [here](https://www.kaggle.com/datasets/alistairking/nuclear-energy-datasets/) for the full list of credits. 
+
+If you have any suggestions for future work or collaborations, please do not hesitate to reach out!
